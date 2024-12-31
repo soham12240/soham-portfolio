@@ -37,11 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        As a passionate full stack developer, I thrive at the intersection of creativity and functionality, 
-        crafting robust backend systems and intuitive user interfaces. My journey is fueled by a vision to 
-        grow into a full-stack entrepreneur, building applications that solve real-world challenges and create meaningful impact. 
-        From designing scalable APIs to ensuring a polished frontend, my focus remains on delivering high-quality solutions 
-        that stand out in an ever-evolving tech landscape.
+       A DevOps Engineer is a professional responsible for bridging the gap between software development and IT operations. Their role involves automating and streamlining the processes of software development, testing, deployment, and infrastructure management. They work with tools and technologies like continuous integration/continuous deployment (CI/CD), version control systems 
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
